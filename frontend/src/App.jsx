@@ -11,6 +11,7 @@ import Navbar from './components/Navbar'
 import CollegeRecommendations from './components/CollegeRecommendations'
 import Register from './pages/LoginPage'
 import LoginPage from './pages/LoginPage'
+import Signup from './pages/Signup'
 
 function App() {
   useEffect(() => {
@@ -27,6 +28,7 @@ function App() {
           <Route path="/chatbot" element={<Chatbot/>}/>
           <Route path="/compare" element={<CompareColleges/>}/>
           <Route path="/recommendations" element={<CollegeRecommendations/>}/>
+          <Route path="/signup" element={<Signup/>}/>
         </Routes>
       </Router>
       
