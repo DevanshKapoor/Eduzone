@@ -29,6 +29,7 @@ function App() {
           <Route path="/compare" element={<CompareColleges/>}/>
           <Route path="/recommendations" element={<CollegeRecommendations/>}/>
           <Route path="/signup" element={<Signup/>}/>
+
         </Routes>
       </Router>
       
