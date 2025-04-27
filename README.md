@@ -61,11 +61,5 @@ Built using **MERN Stack**, and powered by the **Gemini AI API**, EduZone combin
 
 ---
 
-## 📃 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-# 🌟 Join the EduZone Journey
+# Join the EduZone Journey
 Making your dream college a reality — one search at a time.
