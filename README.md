@@ -3,7 +3,7 @@
 EduZone is a smart and student-focused platform that helps aspiring college students make informed decisions about their future.  
 Whether you’re looking for the **best engineering college based on your JEE rank**, finding colleges **closest to home**, or understanding the **admission process** — **EduZone** has got you covered!
 
-Built using **React**, **Tailwind CSS**, and powered by the **Gemini AI API**, EduZone combines modern design with real-time information to create a seamless educational journey.
+Built using **MERN Stack**, and powered by the **Gemini AI API**, EduZone combines modern design with real-time information to create a seamless educational journey.
 
 ---
 
